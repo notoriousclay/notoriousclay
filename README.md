@@ -4,11 +4,11 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=notoriousclay&label=Profile%20views&color=0e75b6&style=flat" alt="notoriousclay" /> </p>
 
-- 🌱 :book: I’m currently learning **Python for Data Analytics**
+- :book: I’m currently learning **Python for Data Analytics**
 
 - 💬 Ask me about **Excel, SQL, and Python**
 
-- 👨‍💻 Portfolio - [https://www.datascienceportfol.io/amorantoclarence](https://www.datascienceportfol.io/amorantoclarence)
+- :chart_with_upwards_trend: Portfolio - [https://www.datascienceportfol.io/amorantoclarence](https://www.datascienceportfol.io/amorantoclarence)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
