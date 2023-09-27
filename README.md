@@ -1,5 +1,5 @@
 ![Header](https://github.com/notoriousclay/notoriousclay/blob/main/cover_banner.png)
-<h1 align="center">Hi 👋, I'm Clarence Amoranto</h1>
+
 <h3 align="center">An aspiring Data Analyst from Philippines</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=notoriousclay&label=Profile%20views&color=0e75b6&style=flat" alt="notoriousclay" /> </p>
