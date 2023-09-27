@@ -1,4 +1,4 @@
-
+![Header](https://github.com/notoriousclay/notoriousclay/blob/main/Data-S_Header.jpg)
 <h1 align="center">Hi 👋, I'm Clarence Amoranto</h1>
 <h3 align="center">An aspiring Data Analyst from Philippines</h3>
 
