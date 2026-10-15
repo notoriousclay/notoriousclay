@@ -1,6 +1,6 @@
 ![Header](https://github.com/notoriousclay/notoriousclay/blob/main/cover_banner.png)
 
-<h3 align="center">Data Analytics | AI & Automation</h3>
+<h3 align="center">Data Engineering | Analytics | AI & Automation</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=notoriousclay&label=Profile%20views&color=0e75b6&style=flat" alt="notoriousclay" /> </p>
 
